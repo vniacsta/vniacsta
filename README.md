@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**vniacsta/vniacsta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Vania from Porto!
 
-Here are some ideas to get you started:
+2020 has given me the opportunity to learn Front-End development, which I immediately loved.  
+#codingisfun 👩‍💻  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Because I was so thirsty for more, I went all-in in Academia de Código Full-Stack Software Developer Bootcamp, and I'm loving every moment of it.  
+
+I consider my best skills to be my adaptability to the work environment, teamwork and problem-solving.  
+I love to learn, I’m always ready for a challenge, I’m result-driven, hands-on, and with a can-do mentality.  
+
+I exercise and I’m vegan 🌱  
+I want to spread a healthy message and contribute to a cleaner and better world for all!  
+
+✨ Technologies: #html #css #sass #seo #reactjs #phaserjs #javascript #nodejs #java #oop #sql #spring #tomcat #mvc
+⚡ Want to learn: #python #reactnative #flutter
