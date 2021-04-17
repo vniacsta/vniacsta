@@ -5,7 +5,7 @@
 2020 has given me the opportunity to learn Front-End development, which I immediately loved.  
 #codingisfun 👩‍💻  
 
-Because I was so thirsty for more, I went all-in in Academia de Código Full-Stack Software Developer Bootcamp, and I'm loving every moment of it.  
+Because I was so thirsty for more, I went all-in in Academia de Código Full-Stack Software Developer Bootcamp. Fresh out of the insane Bootcamp routine, I keep studying and looking for new challenges.  
 
 I consider my best skills to be my adaptability to the work environment, teamwork and problem-solving.  
 I love to learn, I’m always ready for a challenge, I’m result-driven, hands-on, and with a can-do mentality.  
