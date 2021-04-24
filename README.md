@@ -13,5 +13,5 @@ I love to learn, I’m always ready for a challenge, I’m result-driven, hands-
 I exercise and I’m vegan 🌱  
 I want to spread a healthy message and contribute to a cleaner and better world for all!  
 
-✨ Technologies: #html #css #sass #seo #reactjs #phaserjs #javascript #nodejs #java #oop #sql #spring #tomcat #mvc  
-⚡ Want to learn: #python #reactnative #flutter
+✨ Technologies: #html #css #sass #seo #reactjs #typescript #javascript #nodejs #expressjs #nextjs #phaserjs #java #oop #sql #spring #tomcat #mvc  
+⚡ Want to learn: #ruby #reactnative #flutter
