@@ -9,4 +9,3 @@ I'm enthusiastic about taking on new challenges and leveraging my skills to deve
 I am dynamic with an eagerness to learn, and a team-oriented mindset. I'm ready to tackle exciting web development projects, constantly improving and adapting to meet the demands of the ever-changing digital landscape.
 
 ✨ Technologies: #html #css #sass #seo #reactjs #typescript #javascript #nodejs #expressjs #nextjs #phaserjs #java #oop #sql #spring #tomcat #mvc #ruby #rubyonrails #angular 
-⚡ Want to learn: #reactnative
